@@ -1,0 +1,11 @@
+This data set has 2+ Million reviews and ratings from Amazon on Beauty related products. 
+We can download this dataset from Kaggle. 
+In this project this dataset is used for Popularity based and Collaborative Filtering as this have the UserId and their Product Ratings.
+
+https://www.kaggle.com/skillsmuggler/amazon-ratings?select=ratings_Beauty.csv
+
+This is Amazon's Original Dataset which includes various categories like Electronics, Beauty, Toys, Health and Personal Care.
+Beauty Dataset is used for Content Based and Hybrid Flitering.
+This Dataset includes additional features about the product including Description, Title, Asin number, Product Image.
+
+http://jmcauley.ucsd.edu/data/amazon/
